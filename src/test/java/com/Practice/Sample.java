@@ -13,4 +13,4 @@ public class Sample {
 	System.out.println("japan");
 
 }
-}
+} 
